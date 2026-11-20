@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: Provisions
+## Notes: Keeps macros pointed at your best water, food, potions, healthstone and bandage. Mage-made first.
+## Author: Frank
+## Version: 1.3
+Provisions.lua
